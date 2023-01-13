@@ -1,4 +1,4 @@
-# Eddy Chan, chi-wai
+# Eddy Chan
 
 <img src="./assets/profile.png" width="250" />
 
